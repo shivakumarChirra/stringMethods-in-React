@@ -66,7 +66,7 @@ function App() {
         console.log(String.fromCharCode(i))
       }
       console.log(String.fromCharCode(3077))
-     }}>From char code</button>        
+     }}>FromCharCode</button>        
     </div>
   );
 }
